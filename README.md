@@ -12,6 +12,6 @@
 
 - 📝 Learn more about me: -***zugravel-teodor.github.io***-
 
-- 💬 Ask me about **digital rights, privacy and unix-like operating systems.**
+- 💬 Ask me about **digital rights, online privacy, free software and unix-like operating systems.**
 
 - 📫 How to reach me: **(soon...)**
