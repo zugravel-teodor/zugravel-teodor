@@ -7,7 +7,7 @@
 
 - 👨‍💻 I create **simple, lightweight and unix philosophy software as a hobby.**
 
-- 🌱 I’m currently learning **the C programming language.**
+- 🌱 I’m currently learning **the C++ programming language.**
 
 - 🤝 I’m looking to collaborate on **free (as in freedom) and open source software.**
 
