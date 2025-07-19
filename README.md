@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on **free (as in freedom) and open source software.**
 
-- 📝 Learn more about me: -***zugravel-teodor.github.io***-
+- 📝 My website: -***zugravel-teodor.github.io***-
 
 - 💬 Ask me about **digital rights, online privacy, free software and unix-like operating systems.**
 
