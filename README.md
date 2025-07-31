@@ -24,12 +24,3 @@
 - 💬 Ask me about **digital rights, online privacy, free software and unix-like operating systems.**
 
 - 📫 How to reach me: **(soon...)**
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zugravel-teodor" alt="zugravel-teodor" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zugravel-teodor&show_icons=true&locale=en&layout=compact" alt="zugravel-teodor" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zugravel-teodor&show_icons=true&locale=en" alt="zugravel-teodor" /></p>
-
-
