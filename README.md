@@ -22,5 +22,3 @@
 - 📝 My website: -***zugravel-teodor.github.io***-
 
 - 💬 Ask me about **digital rights, online privacy, free software and unix-like operating systems.**
-
-- 📫 How to reach me: zugravelteodor@protonmail.com
