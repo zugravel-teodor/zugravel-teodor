@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Zugrăvel Teodor! 🌱</h1>
-<h3 align="center">I'm a 14 year old free and open-source software developer from Romania.</h3>
+<h3 align="center">I'm a 14 year old hacker and free and open-source software developer from Romania.</h3>
 
 
 
