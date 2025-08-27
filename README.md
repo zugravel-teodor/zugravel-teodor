@@ -22,3 +22,5 @@
 - 📝 My website: -***zugravel-teodor.github.io***-
 
 - 💬 Ask me about **digital rights, online privacy, freedom, free software and unix-like operating systems.**
+
+![terry](terry.gif)
