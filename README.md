@@ -23,4 +23,7 @@
 
 - 💬 Ask me about **digital rights, online privacy, freedom, free software and unix-like operating systems.**
 
-![terry](terry.gif)
+<p align="center">
+  <img src="terry.gif" alt="terry" />
+</p>
+
