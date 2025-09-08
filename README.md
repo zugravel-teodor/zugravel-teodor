@@ -16,11 +16,11 @@
 
 - I’m looking to collaborate on **free (as in freedom) and open source software.**
 
-- Contact information: **zugravelteodor@protonmail.com**
-
 - Ask me about **digital rights, online privacy, freedom, free software and unix-like operating systems.**
 
 <p align="center">
   <img src="terry.gif" alt="terry" />
 </p>
+
+Contact information: **zugravelteodor@protonmail.com**
 
