@@ -2,7 +2,7 @@
 <h3 align="center">I'm a 14-year-old hacker, digital activist, FOSS developer and computer tinkerer from Romania.</h3>
 
 <p align="center">
-    <img src="matrix.jpg" alt="matrix" />
+    <img src="neofetch.png" alt="matrix" />
 </p>
 
 
