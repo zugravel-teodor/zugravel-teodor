@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Zugrăvel Teodor!</h1>
-<h3 align="center">I'm a 14-year-old hacker, digital activist, FOSS developer and computer tinkerer from Romania.</h3>
+<h3 align="center">I'm a 14-year-old traditional hacker, digital activist, FOSS developer and computer tinkerer from Romania.</h3>
 
 <p align="center">
     <img src="neofetch.png" alt="matrix" />
