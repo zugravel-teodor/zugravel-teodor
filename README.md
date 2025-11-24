@@ -3,6 +3,7 @@
 
 <p align="center">
     <img src="neofetch.png" alt="matrix" />
+    Outdated photo, I will update it soon!
 </p>
 
 
